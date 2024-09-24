@@ -6,5 +6,6 @@ class Solution {
         }
         double a = sum / numbers.length;
         return a;
+        
     }
 }
